@@ -41,7 +41,6 @@ Além disso, o projeto serve como **portfólio técnico** em:
 ```
 gestao-analitica-financeira/
 │
-├── docker-compose.yml
 ├── backend/
 │   ├── main.py
 │   ├── db.py
@@ -55,6 +54,12 @@ gestao-analitica-financeira/
 │   ├── index.html
 │   ├── style.css
 │   └── app.js
+│
+├── docker-compose.yml
+│
+├── requirements.txt
+│
+├── .gitignore
 │
 └── README.md
 ```
